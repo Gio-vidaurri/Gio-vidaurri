@@ -43,16 +43,16 @@ I work at the intersection of product, technology, and data—designing and ship
 ---
 
 ## 📊 GitHub Stats
-![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gio-vidaurri&show_icons=true&theme=radical)
+![Gio's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gio-vidaurri&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gio-vidaurri&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gio-vidaurri&layout=compact&theme=default)
 
 ---
 
 ## 🔧 Focus
-- Building multi-site scalable architectures  
-- Automating SEO + content pipelines with AI  
-- Structuring data tracking systems for product growth  
+- Building scalable product systems
+- Technical SEO & data layer implementation
+- AI-augmented workflows and automation 
 
 ---
 
