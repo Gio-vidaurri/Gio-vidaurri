@@ -17,7 +17,7 @@ Designing and shipping scalable product systems across UX, engineering, and data
 ## 🚀 About
 Product Systems Consultant focused on building and scaling digital products end to end.
 
-I work at the intersection of product, technology, and data—designing and shipping scalable web ecosystems that connect business strategy with real-world performance.
+I work at the intersection of product, technology, and data—structuring and shipping scalable web ecosystems that connect business strategy with measurable performance.
 
 ---
 
@@ -42,17 +42,12 @@ I work at the intersection of product, technology, and data—designing and ship
 
 ---
 
-## 📊 GitHub Stats
-![Gio's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gio-vidaurri&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gio-vidaurri&layout=compact&theme=default)
-
----
-
-## 🔧 Focus
-- Building scalable product systems
-- Technical SEO & data layer implementation
-- AI-augmented workflows and automation 
+## 🔧 Systems I build
+- Headless architectures (multi-site, scalable, SEO-driven)
+- Technical SEO & structured data ecosystems
+- Data layer & analytics pipelines (GA4 / GTM)
+- Conversion and growth systems (CRO, funnels)
+- AI-augmented workflows for automation and content generation
 
 ---
 
