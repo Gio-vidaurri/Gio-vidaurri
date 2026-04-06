@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.giovidaurri.com">
+    <img src="https://github.com/user-attachments/assets/c3b227e4-379d-442e-8981-8222ee52e1af" width="100%" />
+  </a>
+</p>
+
+<br/>
+
 # Hi, I'm Gio 👋
 
 **Product Systems · Technical SEO · Growth & Data · AI-Augmented Development**
@@ -35,16 +43,16 @@ I work at the intersection of product, technology, and data—designing and ship
 ---
 
 ## 📊 GitHub Stats
-![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovidaurri&show_icons=true&theme=radical)
+![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gio-vidaurri&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovidaurri&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gio-vidaurri&layout=compact&theme=radical)
 
 ---
 
 ## 🔧 Focus
-- Building multi-site scalable architectures
-- Automating SEO + content pipelines with AI
-- Structuring data tracking systems for product growth
+- Building multi-site scalable architectures  
+- Automating SEO + content pipelines with AI  
+- Structuring data tracking systems for product growth  
 
 ---
 
