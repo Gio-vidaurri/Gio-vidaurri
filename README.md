@@ -1,2 +1,58 @@
-# giovidaurri
-End-to-end product systems connecting UX, engineering, data, and growth.
+# Hi, I'm Gio 👋
+
+**Product Systems · Technical SEO · Growth & Data · AI-Augmented Development**
+
+Designing and shipping scalable product systems across UX, engineering, and data.
+
+---
+
+## 🚀 About
+Product Systems Consultant focused on building and scaling digital products end to end.
+
+I work at the intersection of product, technology, and data—designing and shipping scalable web ecosystems that connect business strategy with real-world performance.
+
+---
+
+## 🧠 What I do
+- 🏗️ Headless & modular architectures (Astro, Strapi, Vercel)
+- 🔎 Technical SEO systems (URL architecture, schemas, indexing)
+- 📊 Data layer & analytics (GA4, GTM, event tracking)
+- 📈 Growth systems (CRO, funnels, conversion tracking)
+- 🤖 AI workflows (automation, scraping, content pipelines)
+
+---
+
+## ⚙️ Stack
+![Astro](https://img.shields.io/badge/Astro-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Schema.org](https://img.shields.io/badge/Schema.org-000000?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovidaurri&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovidaurri&layout=compact&theme=radical)
+
+---
+
+## 🔧 Focus
+- Building multi-site scalable architectures
+- Automating SEO + content pipelines with AI
+- Structuring data tracking systems for product growth
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gio%20Vidaurri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovidaurri/)
+
+---
+
+## ⚡ Philosophy
+I don’t design screens.  
+I build systems that scale, perform, and drive measurable growth.
