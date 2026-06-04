@@ -59,3 +59,5 @@ I work at the intersection of product, technology, and data—structuring and sh
 ## ⚡ Philosophy
 I don’t design screens.  
 I build systems that scale, perform, and drive measurable growth.
+
+<img width="853" height="410" alt="GV - Logotipo - motion__Final" src="https://github.com/user-attachments/assets/3be6a445-2071-419a-bca0-af36263a9f10" />
