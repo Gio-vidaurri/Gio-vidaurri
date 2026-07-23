@@ -86,8 +86,8 @@ I build products that connect user needs, business goals, brand quality, data, a
 <p align="center">
   <a href="https://www.giovidaurri.com">
     <img
-      src="https://github.com/user-attachments/assets/3be6a445-2071-419a-bca0-af36263a9f10"
-      alt="GV Logo Motion Design"
+      src="[https://github.com/user-attachments/assets/3be6a445-2071-419a-bca0-af36263a9f10](https://github.com/user-attachments/assets/215bce61-3a29-497b-b139-dc95c2bd45bf)"
+      alt="Crafting Next-Gen Digital Products — Gio Vidaurri"
       width="100%"
     />
   </a>
