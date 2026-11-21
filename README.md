@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner-gv.png" alt="Giovanni Vidaurri — Product Design Engineer & Product Builder" width="100%" />
-</p>
-
 # Hi, I'm Gio 👋
 
 **Product Design Engineer · Product Builder · Product Strategy · UX & Design Systems · AI-Assisted Engineering · LLM & Agentic Workflows · E-commerce & Technical SEO/GEO**
@@ -55,34 +51,34 @@ My work sits at the intersection of **product, design, AI, and engineering**. I 
 
 ### AI & Agentic Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude_&_Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=2CE59B" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude_%26_Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude & Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logoColor=2CE59B" alt="Codex" />
   <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=2CE59B" alt="MCP" />
-  <img src="https://img.shields.io/badge/Spec--Driven_Dev_(SDD)-0D1117?style=for-the-badge&logo=markdown&logoColor=2CE59B" alt="SDD" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=2CE59B" alt="MCP" />
+  <img src="https://img.shields.io/badge/Spec--Driven_Dev-0D1117?style=for-the-badge&logo=markdown&logoColor=2CE59B" alt="Spec-Driven Development" />
 </p>
 
 ### Data, Platform, Testing & Delivery
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod" />
-  <img src="https://img.shields.io/badge/Redis_&_BullMQ-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis & BullMQ" />
+  <img src="https://img.shields.io/badge/Redis_%26_BullMQ-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis & BullMQ" />
   <img src="https://img.shields.io/badge/Strapi-0D1117?style=for-the-badge&logo=strapi&logoColor=4945FF" alt="Strapi" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logoColor=2EAD33" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ### Measurement & Optimization
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Analytics_4-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="GA4" />
-  <img src="https://img.shields.io/badge/GTM_Client_&_Server--Side-0D1117?style=for-the-badge&logo=googletagmanager&logoColor=246FDB" alt="Google Tag Manager" />
-  <img src="https://img.shields.io/badge/Lighthouse_&_CWV-0D1117?style=for-the-badge&logo=lighthouse&logoColor=F44B21" alt="Core Web Vitals" />
+  <img src="https://img.shields.io/badge/Google_Analytics_4-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/GTM_Server--Side-0D1117?style=for-the-badge&logo=googletagmanager&logoColor=246FDB" alt="Google Tag Manager Server-Side" />
+  <img src="https://img.shields.io/badge/Core_Web_Vitals-0D1117?style=for-the-badge&logo=lighthouse&logoColor=F44B21" alt="Core Web Vitals" />
 </p>
 
 ---
@@ -158,7 +154,7 @@ I connect product architecture with how products are discovered, understood, and
     <img src="https://img.shields.io/badge/Portfolio-giovidaurri.com-031B11?style=for-the-badge&logo=googlechrome&logoColor=2CE59B" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/giovidaurri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gio_Vidaurri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gio_Vidaurri-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
